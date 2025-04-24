@@ -1,6 +1,9 @@
 /* Base */
 html {
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  scroll-padding-top: 70px;   
+  scroll-behavior: smooth;
+}
 
 body {
   line-height: 1.7;
